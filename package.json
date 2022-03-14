@@ -15,10 +15,7 @@
     "socket.io": "^2.1.1"
   },
   "engines": {
-    "node": "8.x"
-  },
-  "repository": {
-    "url": "https://glitch.com/edit/#!/hello-express"
+    "node": "8.x"  
   },
   "license": "MIT",
   "keywords": [
